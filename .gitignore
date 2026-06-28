@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+backend/.env
+
+# Databases
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Uploads & exports
+uploads/
+exports/
